@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlitedb", "sqlitedb.csproj", "{1120D433-3CEB-4480-8AB2-B6732E0979F3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "contact_book", "..\contact_book\contact_book.vdproj", "{83A32DE8-1837-4612-A68F-CAA4C9C10A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1120D433-3CEB-4480-8AB2-B6732E0979F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1120D433-3CEB-4480-8AB2-B6732E0979F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1120D433-3CEB-4480-8AB2-B6732E0979F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1120D433-3CEB-4480-8AB2-B6732E0979F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A32DE8-1837-4612-A68F-CAA4C9C10A81}.Debug|Any CPU.ActiveCfg = Debug
+		{83A32DE8-1837-4612-A68F-CAA4C9C10A81}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD851C5F-1E58-451D-8F87-52E14EE7CAD2}
+	EndGlobalSection
+EndGlobal
